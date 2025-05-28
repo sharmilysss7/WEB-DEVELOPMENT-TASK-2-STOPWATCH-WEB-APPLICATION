@@ -1,0 +1,32 @@
+# ⏱️ Task 02: Stopwatch Web Application
+
+## Objective
+Create an **interactive and user-friendly stopwatch web application** to accurately measure and record time intervals.
+
+## Task Description
+- Implement core stopwatch features:
+  - ⏯️ **Start**, **Pause**, and **Reset** functions.
+  - ⏱️ **Lap time tracking** and display.
+- Ensure smooth user interaction and accurate time tracking.
+
+## Features
+- Easy-to-use interface.
+- Start, stop, and reset buttons.
+- Lap time recording and display.
+- Real-time time updates.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Folder Structure
+
+## Preview
+*Add a screenshot or link to the hosted app when available.*
+
+## Author
+**Skillsoft Technology**
+
+---
+
